@@ -12,11 +12,6 @@
 
 **Reactive Quiz** is a lightweight and fun multiple-choice quiz app built using **React**. It gives instant feedback, tracks your score, and gently mocks your incorrect answers (with colors, not judgment).
 
-Perfect for:
-- Practicing React hooks like `useState` and `useRef`
-- Showing off your knowledge (or lack thereof)
-- Quick demos or interview projects
-
 ---
 
 ## ✨ Features
