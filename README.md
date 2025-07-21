@@ -1,12 +1,46 @@
-# React + Vite
+# ⚡ Reactive Quiz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A snappy, interactive quiz app built with React — where you either ace the questions or react with regret.
 
-Currently, two official plugins are available:
+![Reactive Quiz Screenshot](https://via.placeholder.com/800x400?text=Add+your+screenshot+here)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧠 About
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Reactive Quiz** is a lightweight and fun multiple-choice quiz app built using **React**. It gives instant feedback, tracks your score, and gently mocks your incorrect answers (with colors, not judgment).
+
+Perfect for:
+- Practicing React hooks like `useState` and `useRef`
+- Showing off your knowledge (or lack thereof)
+- Quick demos or interview projects
+
+---
+
+## ✨ Features
+
+- ✅ Multiple choice questions
+- ✅ Answer validation with visual feedback (✔️ / ❌)
+- ✅ Live score tracking
+- ✅ “Next” button to navigate questions
+- ✅ “ReQuiz” to start over when you’ve failed gloriously
+
+---
+
+## 🛠 Tech Stack
+
+- ⚛️ React (Functional Components, Hooks)
+- 🎨 CSS (with optional animations or styles)
+- 🗃️ Local mock data for questions (`data.js` or similar)
+
+---
+
+## 🚀 Getting Started
+
+Clone and run the app locally:
+
+```bash
+git clone https://github.com/pallabm22/reactive-quiz.git
+cd reactive-quiz
+npm install
+npm run dev
