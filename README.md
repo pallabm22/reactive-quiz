@@ -33,7 +33,7 @@ Perfect for:
 
 - ⚛️ React (Functional Components, Hooks)
 - 🎨 CSS (with optional animations or styles)
-- 🗃️ Local mock data for questions (`data.js` or similar)
+- 🗃️ Local mock data for questions (`data.js`)
 
 ---
 
