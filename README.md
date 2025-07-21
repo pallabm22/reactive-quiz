@@ -2,7 +2,7 @@
 
 > A snappy, interactive quiz app built with React — where you either ace the questions or react with regret.
 
-![Reactive Quiz Screenshot](https://via.placeholder.com/800x400?text=Add+your+screenshot+here)
+!(quiz-app.png)
 
 ---
 
