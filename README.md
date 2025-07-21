@@ -1,6 +1,7 @@
 # ⚡ Reactive Quiz
 
 > A snappy, interactive quiz app built with React — where you either ace the questions or react with regret.
+> <img src="./quiz-app.png" alt="Quiz App Screenshot" width="600"/>
 
 ![App Screenshot](./quiz-app.png)
 
